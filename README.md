@@ -1,5 +1,5 @@
 # TheFernandoM.github.io
-Public blog &amp; about me page!
+Fernando M's GitHub Home
 
 
 [https://thefernandom.github.io/](https://thefernandom.github.io/)
